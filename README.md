@@ -8,7 +8,9 @@ A system administration related exercises
 	uma espécie de idioma que permite às aplicações.
 
 #### Pilha de Protocolos
-- TCP/IP é um conjunto de protocolos dividido em quato camadas:
-	- Aplicação - Essa camada é utilizada pelos programas para enviar e receber informações de outros programas através da rede. Nela, você encontra 
-	protocolos como SMTP (para email), FTP (transferência de arquivos) e o ]
+- TCP/IP é um conjunto de protocolos dividido em quato camadas que são
+	processadas na seguinte ordem:
+	- Aplicação - Essa camada é utilizada pelos programas para enviar e receber
+	informações de outros programas através da rede. Nela, você encontra 
+	protocolos como SMTP (para email), FTP (transferência de arquivos) e o
 	famoso HTTP (para navegar na internet). 
