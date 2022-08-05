@@ -103,7 +103,10 @@ A system administration related exercises
 
 				 IP: 10.20.12.45/26
 		 		 IP: 00001010.00010100.00001100.00101101
+	
 	máscara de rede: 11111111.11111111.11111111.11000000
+	- 1 representa os bits destinados a rede
+	- 0 representa os bits destidanos aos hosts
 	máscara de rede: 255.255.255.192
 
 #### Classes de Rede
@@ -120,4 +123,3 @@ A system administration related exercises
 	REDE	HOSTS
 	x y z	  w
 
-	
