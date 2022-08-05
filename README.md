@@ -14,13 +14,13 @@ A system administration related exercises
 	5) Physical	[ethernet cables, ...]
 
 #### Aplicação
-	Essa camada é utilizada pelos programas para enviar e receber informações de outros programas através da rede. Nela, você encontra protocolos como SMTP (para email), FTP (transferência de arquivos) e o
-	famoso HTTP (para navegar na internet). 
+	Essa camada é utilizada pelos programas para enviar e receber informações de outros programas através da rede. 
+
 #### Transporte e Rede
-	A camada de transporte é responsável por receber os dados enviados pelo grupo acima, verificar a integridade deles e dividi-los em pacotes. Feito isso, as
-	informações são encaminhadas para a camada internet, logo abaixo dela.
-	Na Rede, os dados empacotados são recebidos e anexados ao endereço virtual
-	(IP) do computador remetente e do destinatário. Agora é a vez dos pacotes serem, enfim, enviados pela internet. Para isso, são passados para a camada Interface.
+	A camada de transporte é responsável por receber os dados enviados pelo grupo acima, verificar a integridade deles e dividi-los em pacotes. Feito isso, as informações são encaminhadas para a camada internet, logo abaixo dela.
+	Na Rede, os dados empacotados são recebidos e anexados ao endereço virtual (IP) do computador remetente e do destinatário.
+	Agora é a vez dos pacotes serem, enfim, enviados pela internet. Para isso, são passados para a camada Interface.
+	
 #### Interface
 	A tarefa da Interface é receber e enviar pacotes pela rede. Os protocolos utilizados nessa camada dependem do tipo de rede que está sendo utilizado. Atualmente, o mais comum é o Ethernet, disponível em diferentes velocidades.
 
