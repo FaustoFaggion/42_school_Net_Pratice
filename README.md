@@ -1,7 +1,7 @@
 # 42_school_Net_Pratice
 A system administration related exercises
 
-### Network Protocol Layers [ TCP/IP]
+### Network Protocol Layers
 
 	- Network communication is split into layers.
 	- Each layer has different protocols that operate at that layer.
@@ -13,12 +13,6 @@ A system administration related exercises
 	4) Link		[protocols: Ethernet, MAC address, network card, device drivres, WIFI standards, switches, etc...]
 	5) Physical	[ethernet cables, ...]
 
-## TCP/IP
-	TCP significa "Transmission Control Protocol" e IP "Internet Protocol".
-	Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o TCP/IP é uma espécie de idioma que permite às aplicações conversarem entre si.
-
-### Pilha de Protocolos
-	TCP/IP é um conjunto de protocolos dividido em quato camadas que são processadas na seguinte ordem:
 #### Aplicação
 	Essa camada é utilizada pelos programas para enviar e receber informações de outros programas através da rede. Nela, você encontra protocolos como SMTP (para email), FTP (transferência de arquivos) e o
 	famoso HTTP (para navegar na internet). 
@@ -32,3 +26,10 @@ A system administration related exercises
 
 #### Então o que é o TCP/IP
 	É o conjunto de tdas a etapas citadas acima: primeiro há o recebimento das informações (camada de aplicação), depois elas são empacotadas para o formato da rede (transporte).Por fim, os dados são endereçados (rede) e enviados (interface).
+
+## TCP/IP
+	TCP significa "Transmission Control Protocol" e IP "Internet Protocol".
+	Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o TCP/IP é uma espécie de idioma que permite às aplicações conversarem entre si.
+
+### Pilha de Protocolos
+	TCP/IP é um conjunto de protocolos dividido em quatro camadas que são processadas na seguinte ordem:
