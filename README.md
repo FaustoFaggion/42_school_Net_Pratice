@@ -38,8 +38,13 @@ A system administration related exercises
 
 ### Cálculo Sub-rede
 
-	IPV4
-	É formado por 4 números entre 0 e 255.
+#### Número IPV4
+	
+	- O número IP é composto por 32 bits ou 4 octetos.
+
+	00000000.00000000.00000000.00000000
+
+	Cada octeto é representado por um decimal que vai de 0 a 255.
 	- O formato decimal é utilizado para representar de uma maneira que fique mais fácil de ler.
 	- O computador utiliza o sistema binário.
 
@@ -72,7 +77,7 @@ A system administration related exercises
 
 	IP: 00001010.00010100.00001100.00101101
 
-#### Significado do /<número> ao final do IP
+#### Quantos bits são utilizados para representar a rede[/24]
 
 	Quando o barra não esta representado no IP, o valor é 24.
 	O número que esta após o barra no endereço de 
@@ -87,5 +92,10 @@ A system administration related exercises
 	2^(bits) - 2
 	2 ^(6) - 2 =  62
 	O valor de -2 é devido ao primeiro IP ser da REDE e o último IP ser o BROADCAST.
-	
 
+#### Máscara de Rede
+
+				 IP: 10.20.12.45/26
+		 		 IP: 00001010.00010100.00001100.00101101
+	máscara de rede: 11111111.11111111.11111111.11000000
+	máscara de rede: 255.255.255.192
