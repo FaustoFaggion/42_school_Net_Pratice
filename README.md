@@ -90,12 +90,13 @@ A system administration related exercises
 
 	O número total de hosts por rede:
 	2^(bits) - 2
-	2 ^(7) - 2 =  128
+	2 ^(7) - 2 =  126
+
 	Total de Sub-redes:
 	1) SUB-REDE		10.20.12.0	BROADCAST	10.20.12.127
 	2)SUB-REDE		10.20.12.128	BROADCAST	10.20.12.255
 
-	
+
 
 
 #### Máscara de Rede
@@ -104,3 +105,19 @@ A system administration related exercises
 		 		 IP: 00001010.00010100.00001100.00101101
 	máscara de rede: 11111111.11111111.11111111.11000000
 	máscara de rede: 255.255.255.192
+
+#### Classes de Rede
+
+	Classe A	10.0.0.0 à 10.255.255.255
+	REDE	HOSTS
+	 x		y z w
+	
+	Classe B	128.0.0.0 à 191.255.255.255
+	REDE	HOSTS
+	 x y	 z w
+	
+	Classe C	192.0.0.0 à 223.255.255.255
+	REDE	HOSTS
+	x y z	  w
+
+	
