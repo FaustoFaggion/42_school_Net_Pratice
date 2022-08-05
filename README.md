@@ -34,5 +34,43 @@ A system administration related exercises
 	TCP significa "Transmission Control Protocol" e IP "Internet Protocol".
 	Por mais que duas máquinas estejam conectadas à mesma rede, se não “falarem” a mesma língua, não há como estabelecer uma comunicação. Então, o TCP/IP é uma espécie de idioma que permite às aplicações conversarem entre si.
 
-### Pilha de Protocolos
-	TCP/IP é um conjunto de protocolos dividido em quatro camadas que são processadas na seguinte ordem:
+### Rede IP Máscara e Gateway
+
+### Cálculo Sub-rede
+
+	IPV4
+	É formado por 4 números entre 0 e 255.
+	- O formato decimal é utilizado para representar de uma maneira que fique mais fácil de ler.
+	- O computador utiliza o sistema binário.
+
+#### Converter Decimal para Binário
+	
+	- Para representar um binário com valor máximo de 255, é necessário 8 bits.
+	- Cada bit na cadeia do octeto representa os seguintes valores:
+
+	128	64	32	16	8	4	2	1
+
+	- Note que começando do 1 a esquerda, o valor a esquerda é sempre igual duas vezes o valor da direita.
+	- Note também que a soma dos valores é igual a 255.
+
+	O valor em decimal é igual a soma dos valores dos bits com sinal 1.
+
+	Exemplo: IP: 10.20.12.45
+	
+	10:	128	64	32	16	8	4	2	1
+		0	0	0	0	1	0	1	0
+		8 + 2 = 10
+	20:	128	64	32	16	8	4	2	1
+		0	0	0	1	0	1	0	0
+		16 + 4 = 20
+	12:	128	64	32	16	8	4	2	1
+		0	0	0	0	1	1	0	0
+		8 + 4 = 12
+	45: 128	64	32	16	8	4	2	1
+		0	0	1	0	1	1	0	1
+		32 + 8 + 4 + 1 = 45
+
+
+
+
+
