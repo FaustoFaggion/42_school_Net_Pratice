@@ -84,14 +84,19 @@ A system administration related exercises
 	IP significa o número de bits utilizados para representar a rede. O restante representa o número de hosts para cada rede.
 
 	Exemplo: 	 
-				 IP: 10.20.12.45/26
-		 		 IP: 00001010.00010100.00001100.00	101101
-	máscara de rede: 11111111.11111111.11111111.11	000000
+				 IP: 10.20.12.45/25
+		 		 IP: 00001010.00010100.00001100.0	0101101
+	máscara de rede: 11111111.11111111.11111111.1 0000000
 
 	O número total de hosts por rede:
 	2^(bits) - 2
-	2 ^(6) - 2 =  62
-	O valor de -2 é devido ao primeiro IP ser da REDE e o último IP ser o BROADCAST.
+	2 ^(7) - 2 =  128
+	Total de Sub-redes:
+	1) SUB-REDE		10.20.12.0	BROADCAST	10.20.12.127
+	2)SUB-REDE		10.20.12.128	BROADCAST	10.20.12.255
+
+	
+
 
 #### Máscara de Rede
 
