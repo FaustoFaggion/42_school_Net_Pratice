@@ -9,9 +9,9 @@ A system administration related exercises
 
 	1) Application	[protocols: HTTP, HTTPS, DNS, SMTP, IMAP, POP]
 	2) Transport	[protocols: TCP, UDP, SPX]
-	3) Network		[protocols: IPv4, IPv6, ICMP]
-	4) Link			[protocols: Ethernet, MAC address, network card, device drivres, WIFI standards, switches, etc...]
-	5) Physical		[ethernet cables, ...]
+	3) Network	[protocols: IPv4, IPv6, ICMP]
+	4) Link		[protocols: Ethernet, MAC address, network card, device drivres, WIFI standards, switches, etc...]
+	5) Physical	[ethernet cables, ...]
 
 ## TCP/IP
 	TCP significa "Transmission Control Protocol" e IP "Internet Protocol".
