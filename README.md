@@ -70,7 +70,22 @@ A system administration related exercises
 		0	0	1	0	1	1	0	1
 		32 + 8 + 4 + 1 = 45
 
+	IP: 00001010.00010100.00001100.00101101
 
+#### Significado do /<número> ao final do IP
 
+	Quando o barra não esta representado no IP, o valor é 24.
+	O número que esta após o barra no endereço de 
+	IP significa o número de bits utilizados para representar a rede. O restante representa o número de hosts para cada rede.
 
+	Exemplo: 	 
+				 IP: 10.20.12.45/26
+		 		 IP: 00001010.00010100.00001100.00	101101
+	máscara de rede: 11111111.11111111.11111111.11	000000
+
+	O número total de hosts por rede:
+	2^(bits) - 2
+	2 ^(6) - 2 =  62
+	O valor de -2 é devido ao primeiro IP ser da REDE e o último IP ser o BROADCAST.
+	
 
