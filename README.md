@@ -136,6 +136,6 @@ A system administration related exercises
 
 	Por padrão, um roteador já sabe como alcançar as redes que se encontram diretamente conectadas a ele. 
 
-<img width=800 src="./DNS.png">
+<img width=800 src="./readme_img/router0.png">
 
 	O roteador quebra o dominio de broadcast.
