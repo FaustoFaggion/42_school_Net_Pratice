@@ -133,9 +133,8 @@ A system administration related exercises
 
 	- Endereço IP da rede destino
 	- Endereço IP do roteador vizinho.
+ 
 
-	Por padrão, um roteador já sabe como alcançar as redes que se encontram diretamente conectadas a ele. 
-
-<img width=800 src="./readme_img/router0.png">
+<img width=600 src="./readme_img/router0.png">
 
 	O roteador quebra o dominio de broadcast.
