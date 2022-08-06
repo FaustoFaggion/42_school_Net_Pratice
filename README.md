@@ -141,7 +141,16 @@ A system administration related exercises
 
 	As melhores rotas para se chegar a uma determinada rede, são armazenadas em uma tabela, chamada tabela de roteamento.
 	O termo "Distância Administrativa" (ADs) são usados para classificar a confiabilidade das rotas recebidas ou configuradas.
-	
+
+	| Origem da Rota					| AD (Confiabilidade)	|
+	|-----------------------------------------------------------|
+	| Rotas diretamente conectada		|			0			|
+	| Rota estática						|			1			|
+	| EIGRP								|			90			|
+	| OSPF								|			110			|
+	 RIP								|			120			|
+
+	O menor AD sempre será considerado como melhor caminho.
 
 
 
