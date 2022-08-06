@@ -130,5 +130,12 @@ A system administration related exercises
 	Roteamento é o conjunto de regras que definem como dados originados em uma determinada rede devem alcançar uma rede distinta.
 
 	O papel do roteador é conhecer os caminhos para as diversas redes e saber como implementar o processo de roteamento.
-	
+
+	- Endereço IP da rede destino
+	- Endereço IP do roteador vizinho.
+
+	Por padrão, um roteador já sabe como alcançar as redes que se encontram diretamente conectadas a ele. 
+
+<img width=800 src="./DNS.png">
+
 	O roteador quebra o dominio de broadcast.
