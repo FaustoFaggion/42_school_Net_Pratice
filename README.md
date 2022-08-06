@@ -96,9 +96,6 @@ A system administration related exercises
 	1) SUB-REDE		10.20.12.0	BROADCAST	10.20.12.127
 	2)SUB-REDE		10.20.12.128	BROADCAST	10.20.12.255
 
-
-
-
 #### Máscara de Rede
 
 				 IP: 10.20.12.45/26
@@ -123,3 +120,15 @@ A system administration related exercises
 	REDE	HOSTS
 	x y z	  w
 
+### Roteamento
+
+	Switch - Conexão entre computadores da mesma rede
+	Roteador - Conexão entre redes.
+
+	Para fazer o direcionamento dos pacotes de uma rede para outra, o roteador analisa seus cabeçalhos IP e consulta a rota para a rede de destino em sua tabela de roteamento.
+
+	Roteamento é o conjunto de regras que definem como dados originados em uma determinada rede devem alcançar uma rede distinta.
+
+	O papel do roteador é conhecer os caminhos para as diversas redes e saber como implementar o processo de roteamento.
+	
+	O roteador quebra o dominio de broadcast.
