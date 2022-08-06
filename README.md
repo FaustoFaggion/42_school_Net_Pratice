@@ -140,8 +140,8 @@ A system administration related exercises
 	O roteador deve aprender sobre rotas para redes remotas (que não estão diretamente ligadas a ele).
 
 	As melhores rotas para se chegar a uma determinada rede, são armazenadas em uma tabela, chamada tabela de roteamento.
-O termo "Distância Administrativa" (ADs) são usados para classificar a confiabilidade das rotas recebidas ou configuradas.
-
+	O termo "Distância Administrativa" (ADs) são usados para classificar a confiabilidade das rotas recebidas ou configuradas.
+	
 
 
 
