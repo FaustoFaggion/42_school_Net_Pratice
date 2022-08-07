@@ -263,11 +263,11 @@ A system administration related exercises
 		f. Message is received by de destination.
 	- Message formatting and encapsulation
 		a. Agreed format.
-		b. Encapsulate the information to identify the sender and the receiver rightly.
+		b. Encapsulate the information to identify the sender and the receiver rightly (IP address).
 	- Message size
 		Longmessages must be broken into smaller pieces to travel across a network.
 	- Message timing
-		a. Flow control (imagine one node is faster than other)
+		a. Flow control. (Imagine a sender is faster than a receiver. Before the sender starts to send, the receiver will tell him how many packes per second he can receives).
 		b. Response timeout.
 	- Message delivery options
 		a. Unicast: One sender / one receiver
@@ -281,6 +281,6 @@ A system administration related exercises
 
 ## Transport Layer
 
-Application Layer
+## Application Layer
 
 Network Security
