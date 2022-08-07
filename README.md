@@ -279,6 +279,27 @@ Netwok Types
 <img width=600 src="./readme_img/peer_to_peer.png">
 <img width=500 src="./readme_img/client_server.png">
 
+### Components
+
+#### Nodes
+
+	It's a device that can send / receive data.
+	Can be:
+	End node - The start or the end point of a communication.
+		example: computers, network printers, security cameras, smart phones, barcode scanner, etc... .
+	Intermadiary node - Foward the data from one node to another.
+		example: switches, wireless access point, routers, bridges, hubs, repeaters, cell tower, etc... .
+
+#### Media (link)
+
+	Wired medium (guided medium)
+		example: ethernet crossover cable, fiber optic cable, coaxial cable, USB cable
+	Wireless medium (unguided medium)
+		example: infrared, radio, microwaves, satellite
+
+#### Services
+
+	e-mail, storage services, file sharing, instant messaging, online game, voice over IP, word wide web
 ## Data Link Layer
 
 ## Network Layer
