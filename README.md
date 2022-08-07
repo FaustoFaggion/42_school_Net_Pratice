@@ -209,12 +209,21 @@ A system administration related exercises
 
 **Quality of Service (QoS)**
 
-	The abilitu to:
+	The ability to:
 	1. Set priorities.
 	2. Manage data traffic to reduce data loss, delay, etc... .
-	
+
 **Security**
 
+	The ability to prevent:
+	1. Unauthorized access
+	2. Misuse
+	3. Forgery
+
+	The abilityto provide:
+	1. Confidenciality
+	2. Integrity
+	3. Avaiability
 
 ## Data Link Layer
 
