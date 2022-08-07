@@ -274,6 +274,10 @@ A system administration related exercises
 		b. Multcast: One sender / mult receivers, but not all
 		c. Broadcast: One sender / all receivers
 
+Netwok Types
+
+<img width=600 src="./readme_img/peer_to_peer.png">
+<img width=500 src="./readme_img/client_server.png">
 
 ## Data Link Layer
 
