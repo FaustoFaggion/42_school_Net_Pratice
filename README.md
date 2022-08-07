@@ -225,6 +225,40 @@ A system administration related exercises
 	2. Integrity
 	3. Avaiability
 
+### Data Communication
+
+	It's the exchange of data between two nodes via some form of link such as a cable.
+
+**Data Flow**
+
+	Simplex: One device can transmit and the other device will receive.
+		Example: keyborad, tradicional monitors, etc... .
+
+	Half Duplex: Communication is in both directions but not at the same time. If one device is sending, the other can only receive, and vice versa.
+	Example: Walkie-Talkies
+
+	Full Duplex: Communication is in both directions simultaneously. Device can send and receive data at the same time.
+	Example: telephone line.
+
+**Protocols**
+
+	All communication schemes wil have the following things in common:
+	- Source or Sender
+	- Destination or Receiver
+	- Channel or Media
+	Rules or protocols govern all methods of communication.
+	
+	Protocols determines:
+	- What is communicated?
+	- How it is communicated?
+	- When is communicated?
+
+	In other words, is going to define:
+	- Message encoding
+	- Message formatting and encapsulation
+	- Message timing
+	- Message size
+	- Message delivery options
 ## Data Link Layer
 
 ## Network Layer
