@@ -270,12 +270,9 @@ A system administration related exercises
 		a. Flow control (imagine one node is faster than other)
 		b. Response timeout.
 	- Message delivery options
-		Unicast
-			One sender / one receiver
-		Multcast
-			One sender / mult receivers, but not all
-		Broadcast
-			on sender / all receivers
+		a. Unicast: One sender / one receiver
+		b. Multcast: One sender / mult receivers, but not all
+		c. Broadcast: One sender / all receivers
 
 
 ## Data Link Layer
