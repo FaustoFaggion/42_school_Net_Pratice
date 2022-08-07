@@ -253,12 +253,20 @@ A system administration related exercises
 	- How it is communicated?
 	- When is communicated?
 
-	In other words, is going to define:
+	Elements of a protocol are:
 	- Message encoding
 	- Message formatting and encapsulation
 	- Message timing
 	- Message size
 	- Message delivery options
+
+	Message Encoding
+		1. Source generates a message
+		2. The Encoder will convert the message into signals (that suits the kind of transmission).
+		3. Transmission (can be wired or wireless)
+		4. Receiver will receive the data.
+		5. Decoder will decode the signal (understand the signal).
+		6. Message is received by de destination.
 ## Data Link Layer
 
 ## Network Layer
