@@ -255,18 +255,29 @@ A system administration related exercises
 
 	Elements of a protocol are:
 	- Message encoding
+		a. Source generates a message
+		b. The Encoder will convert the message into signals (that suits the kind of transmission).
+		c. Transmission (can be wired or wireless)
+		d. Receiver will receive the data.
+		e. Decoder will decode the signal (understand the signal).
+		f. Message is received by de destination.
 	- Message formatting and encapsulation
-	- Message timing
+		a. Agreed format.
+		b. Encapsulate the information to identify the sender and the receiver rightly.
 	- Message size
+		Longmessages must be broken into smaller pieces to travel across a network.
+	- Message timing
+		a. Flow control (imagine one node is faster than other)
+		b. Response timeout.
 	- Message delivery options
+		Unicast
+			One sender / one receiver
+		Multcast
+			One sender / mult receivers, but not all
+		Broadcast
+			on sender / all receivers
 
-	Message Encoding
-		1. Source generates a message
-		2. The Encoder will convert the message into signals (that suits the kind of transmission).
-		3. Transmission (can be wired or wireless)
-		4. Receiver will receive the data.
-		5. Decoder will decode the signal (understand the signal).
-		6. Message is received by de destination.
+
 ## Data Link Layer
 
 ## Network Layer
