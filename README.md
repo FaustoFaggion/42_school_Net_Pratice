@@ -433,6 +433,11 @@ Netwok Types
 	* it provides more modular design.
 	* Easy to troubleshoot.
 
+#### Protocols
+
+	- It is a set of rules tha governs data communication
+	- The protocols in each layer governs the activities of the data communication.
+
 
 ## Data Link Layer
 
