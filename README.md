@@ -300,6 +300,30 @@ Netwok Types
 #### Services
 
 	e-mail, storage services, file sharing, instant messaging, online game, voice over IP, word wide web
+
+### Classification of Computer Network
+
+**1. Local Area Network (LAN)**
+	A LAN is a computer network that interconnects computers within a limited area such as residance, school, laboratory, ofice building, university campus, etc... .
+
+	LAN-DEVICES
+	- Wired LAN ( Ethernet- Hub, switch)
+	- Wireless (WIFI)
+
+**2. Metropolitan Area Network (MAN)**
+	A MAN is a computer network that interconnects users with computer resources in a geographic region of the size of a metropolitan area (city). In other words it is a connecton among LANs in a city.
+	MAN-DEVICES
+	- Switches / Hub to LAN
+	- Routers / Bridges - Connect LANs
+
+**3. Wide Area Network (WAN)**
+	A WAN is a telecommunication network that extends over a large geographical area for the primary purpose of computer networking. In other words it is a connection among MANs.
+	WAN-DEVICES
+	- End devices and Intermadiaries devices
+
+**The Internet is a WAN**
+
+
 ## Data Link Layer
 
 ## Network Layer
