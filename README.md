@@ -81,6 +81,8 @@ A system administration related exercises
 
 #### Quantos bits são utilizados para representar a rede[/24]
 
+<img width=600 src="./readme_img/IP_class_0.png">
+
 	Quando o barra não esta representado no IP, o valor é 24.
 	O número que esta após o barra no endereço de 
 	IP significa o número de bits utilizados para representar a rede. O restante representa o número de hosts para cada rede.
