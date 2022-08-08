@@ -338,7 +338,7 @@ Netwok Types
 	* A signal containing the address of the intended receiving machine travels from a source machine in both directions to all machines connected to the bus until it finds the entended recipient.
 
 	|		ADVANTAGES			|		DISADVANTAGES			|
-	|---------------------------------------------------------------------------|
+	|-----------------------------------------------------------------------------------------|
 	|Only one wire (less expensive) 		|Not fault tolerant (No redundancy) |
 	|Suited for temporary network	 		|Limited cable length				|
 	|Node failures does not affect others		|No security					|
