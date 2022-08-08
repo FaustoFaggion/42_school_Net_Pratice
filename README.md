@@ -323,6 +323,25 @@ Netwok Types
 
 **The Internet is a WAN**
 
+### Network Topology
+
+	Topology is the layout of the network nodes.
+
+	a. Physical Topology
+		Placement of various nodes.
+	b. Logical Topology
+		Deals with the data flow in the network.
+
+**BUS**
+	* All data transmitted between nodes in the network is transmitted over this common transmission medium and is able to be received by all nodes in the network simultaneously.
+	* A signal containing the address of the intended receiving machine travels from a source machine in both directions to all machines connected to the bus until it finds the entended recipient.
+
+	|				ADVANTAGES				|			DISADVANTAGES			 |
+	|----------------------------------------------------------------------------|
+	| Only one wire (less expensive) 		| Not fault tolerant (No redundancy) |
+	| Suited for temporary network	 		|		Limited cable length		 |
+	| Node failures does not affect others  |			No security				 |
+
 
 ## Data Link Layer
 
