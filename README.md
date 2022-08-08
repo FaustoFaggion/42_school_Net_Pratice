@@ -199,7 +199,7 @@ A system administration related exercises
 	The ability to:
 	1. Continue working despite failures.
 	2. Ensure no loss of service.
-	This means that is necessary to duplicate nodes in case of a node falure.
+	This means that is necessary redundance of nodes and medium. So in case of a node or medium falure, the other can do the job and the network do not fail.
 	
 **Scalability**
 
@@ -343,6 +343,7 @@ Netwok Types
 	|Suited for temporary network	 		|Limited cable length				|
 	|Node failures does not affect others		|No security					|
 
+<img width=500 src="./readme_img/bus.png">
 
 ## Data Link Layer
 
