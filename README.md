@@ -356,6 +356,13 @@ Netwok Types
 
 <img width=500 src="./readme_img/star_topology_1.png">
 <img width=500 src="./readme_img/star_topology_2.png">
+
+**MESH**
+
+<img width=500 src="./readme_img/mesh_1.png">
+
+<img width=500 src="./readme_img/mesh_0.png">
+
 ## Data Link Layer
 
 ## Network Layer
