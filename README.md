@@ -425,6 +425,15 @@ Netwok Types
 
 <img width=500 src="./readme_img/virtual_circuit.png">
 
+### Layer in Network
+
+	Layering means decomposing the problem into more manageable components (Layers).
+
+	Advantages:
+	* it provides more modular design.
+	* Easy to troubleshoot.
+
+
 ## Data Link Layer
 
 ## Network Layer
