@@ -396,6 +396,19 @@ Netwok Types
 
 <img width=500 src="./readme_img/IPxMAC.png">
 
+### Port Address
+
+	IP		- Reach the network
+	MAC		- Reach the host
+	Port	- Reach the right process in the 
+
+	- In a node, many process will be running
+	- Data which are sent/received must reach the right process
+	Every process in a node is uniquely identified using port numbers
+	Port = Communication end point
+	Fixed and dinamic port numbers (0 - 65535)
+
+<img width=500 src="./readme_img/port_address.png">
 
 ## Data Link Layer
 
