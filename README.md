@@ -363,6 +363,10 @@ Netwok Types
 
 <img width=500 src="./readme_img/mesh_0.png">
 
+**HYBRID**
+
+<img width=500 src="./readme_img/hybrid.png">
+
 ## Data Link Layer
 
 ## Network Layer
