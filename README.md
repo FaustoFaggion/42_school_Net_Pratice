@@ -438,6 +438,25 @@ Netwok Types
 	- It is a set of rules tha governs data communication
 	- The protocols in each layer governs the activities of the data communication.
 
+#### Layered Architectures
+
+	- OSI
+	- TCP/IP
+
+**OSI [Open System Interconnection]**
+
+	- It is a model for understanding and designing a network architecture that is flexible, roboust, and interoperable.
+	- Developed by the International Standards for Organizations (ISO)
+	- OSI model is not a protocol, it is a guideline.
+
+	The purpose of the OSI model is to show how to facilitate communication between different systens without requiring changes to the logic of the underlying hardware and software
+	The OSI model was never fully implemented
+
+**TCP/IP [Transmission Control Protocol/Internet Protocol]**
+
+	- It was developed prior to the OSI model
+	- Therefore, the layers in the TCP/IP protocol suite do not exactly match those in the OSI model.
+	- It is a hierarchical protocol made up of interactive modules, each of which provides a specific funcionality.
 
 ## Data Link Layer
 
