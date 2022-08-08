@@ -333,6 +333,7 @@ Netwok Types
 		Deals with the data flow in the network.
 
 **BUS**
+
 	* All data transmitted between nodes in the network is transmitted over this common transmission medium and is able to be received by all nodes in the network simultaneously.
 	* A signal containing the address of the intended receiving machine travels from a source machine in both directions to all machines connected to the bus until it finds the entended recipient.
 
