@@ -339,7 +339,7 @@ Netwok Types
 
 	|		ADVANTAGES			|		DISADVANTAGES			|
 	|-----------------------------------------------------------------------------------------------|
-	|Only one wire (less expensive) 		|Not fault tolerant (No redundancy) |
+	|Only one wire (less expensive) 		|Not fault tolerant (No redundancy)		|
 	|Suited for temporary network	 		|Limited cable length				|
 	|Node failures does not affect others		|No security					|
 
