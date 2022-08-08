@@ -341,7 +341,7 @@ Netwok Types
 	|---------------------------------------------------------------------------|
 	|Only one wire (less expensive) 		|Not fault tolerant (No redundancy) |
 	|Suited for temporary network	 		|Limited cable length				|
-	|Node failures does not affect others	|No security						|
+	|Node failures does not affect others		|No security					|
 
 
 ## Data Link Layer
