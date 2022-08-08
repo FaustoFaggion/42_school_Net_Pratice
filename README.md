@@ -49,7 +49,9 @@ A system administration related exercises
 	- O computador utiliza o sistema binário.
 
 #### Converter Decimal para Binário
-	
+
+<img width=600 src="./readme_img/IP_binary.png">
+
 	- Para representar um binário com valor máximo de 255, é necessário 8 bits.
 	- Cada bit na cadeia do octeto representa os seguintes valores:
 
