@@ -367,6 +367,30 @@ Netwok Types
 
 <img width=500 src="./readme_img/hybrid.png">
 
+## IP Address
+
+**Definition (IPV4)**
+
+	- IP (Internet Protocol)
+	Every node in the network is identified with a IP address.
+	- Logical address
+	- Canchange based on the location of the device.
+	- Assigned by manually or dynamically.
+	- Represented in decimal and it has 4 octets(x.x.x.x).
+	- 0.0.0.0 to 255.255.255.255 (32 bits).
+
+### MAC address (Media Access Control)
+
+	- Every node in the LAN is identified with the help of MAC address
+	- IP address = Location of person
+	- MAC address = Name of a Person
+	* The location can change, the name no.
+
+	* IP addresses are user by routers
+	* MAC addresses are used by switches
+
+
+
 ## Data Link Layer
 
 ## Network Layer
