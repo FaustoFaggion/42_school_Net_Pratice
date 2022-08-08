@@ -379,16 +379,22 @@ Netwok Types
 	- Represented in decimal and it has 4 octets(x.x.x.x).
 	- 0.0.0.0 to 255.255.255.255 (32 bits).
 
+	* IP addresses are user by routers
+	* MAC addresses are used by switches
 ### MAC address (Media Access Control)
 
 	- Every node in the LAN is identified with the help of MAC address
+	- Physical address or Hardware Address
+	- Unique
+	- Can not be changed.
+	- Assigned by manufacturer.
+	- Represented in hexadecimal.
+		example: 70-20-84-00-ED-FC (48 bits).
 	- IP address = Location of person
 	- MAC address = Name of a Person
 	* The location can change, the name no.
 
-	* IP addresses are user by routers
-	* MAC addresses are used by switches
-
+<img width=500 src="./readme_img/IPxMAC.png">
 
 
 ## Data Link Layer
