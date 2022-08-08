@@ -92,9 +92,11 @@ A system administration related exercises
 	- 0 representa os bits destidanos aos hosts
 	máscara de rede: 255.255.255.192
 
-**Quantos bits são utilizados para representar a rede[/24]**
+**Subnet Mask**
 
 <img width=600 src="./readme_img/subnet_mask.png">
+
+<img width=600 src="./readme_img/subnet_mask_0.png">
 
 	Quando o barra não esta representado no IP, o valor é 24.
 	O número que esta após o barra no endereço de 
