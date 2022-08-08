@@ -350,6 +350,12 @@ Netwok Types
 
 <img width=500 src="./readme_img/ring_topology.png">
 
+**STAR**
+
+<img width=500 src="./readme_img/star_topology_0.png">
+
+<img width=500 src="./readme_img/star_topology_1.png">
+<img width=500 src="./readme_img/star_topology_2.png">
 ## Data Link Layer
 
 ## Network Layer
