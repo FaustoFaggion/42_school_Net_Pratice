@@ -412,11 +412,18 @@ Netwok Types
 
 ### Switching
 
-	- A switch helps decide the best route for data transmission if the are multiple paths in a larger network
+	- Switching helps decide the best route for data transmission if the are multiple paths in a larger network
 	- One to one connection
 
+<img width=500 src="./readme_img/circuit_switching.png">
 
+<img width=500 src="./readme_img/message_switching.png">
 
+<img width=500 src="./readme_img/packet_switching.png">
+
+<img width=500 src="./readme_img/datagram.png">
+
+<img width=500 src="./readme_img/virtual_circuit.png">
 
 ## Data Link Layer
 
