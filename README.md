@@ -79,9 +79,22 @@ A system administration related exercises
 
 	IP: 00001010.00010100.00001100.00101101
 
-#### Quantos bits são utilizados para representar a rede[/24]
+
+#### Máscara de Rede
 
 <img width=600 src="./readme_img/IP_class_0.png">
+
+				 IP: 10.20.12.45/26
+		 		 IP: 00001010.00010100.00001100.00101101
+	
+	máscara de rede: 11111111.11111111.11111111.11000000
+	- 1 representa os bits destinados a rede
+	- 0 representa os bits destidanos aos hosts
+	máscara de rede: 255.255.255.192
+
+**Quantos bits são utilizados para representar a rede[/24]**
+
+<img width=600 src="./readme_img/subnet_mask.png">
 
 	Quando o barra não esta representado no IP, o valor é 24.
 	O número que esta após o barra no endereço de 
@@ -99,16 +112,6 @@ A system administration related exercises
 	Total de Sub-redes:
 	1) SUB-REDE		10.20.12.0	BROADCAST	10.20.12.127
 	2)SUB-REDE		10.20.12.128	BROADCAST	10.20.12.255
-
-#### Máscara de Rede
-
-				 IP: 10.20.12.45/26
-		 		 IP: 00001010.00010100.00001100.00101101
-	
-	máscara de rede: 11111111.11111111.11111111.11000000
-	- 1 representa os bits destinados a rede
-	- 0 representa os bits destidanos aos hosts
-	máscara de rede: 255.255.255.192
 
 #### Classes de Rede
 
