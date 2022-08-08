@@ -334,6 +334,8 @@ Netwok Types
 
 **BUS**
 
+<img width=500 src="./readme_img/bus.png">
+
 	* All data transmitted between nodes in the network is transmitted over this common transmission medium and is able to be received by all nodes in the network simultaneously.
 	* A signal containing the address of the intended receiving machine travels from a source machine in both directions to all machines connected to the bus until it finds the entended recipient.
 
@@ -343,7 +345,15 @@ Netwok Types
 	|Suited for temporary network	 		|Limited cable length				|
 	|Node failures does not affect others		|No security					|
 
-<img width=500 src="./readme_img/bus.png">
+**RING**
+
+	* A ring topology is a bus topology in a closed loop.
+	Peer-to-peer LAN topology
+	* Two connections: one to each of its nearest neighbors.
+	* Unidirectional
+	* Sending and receiving data takes place with the help of a token.
+
+<img width=500 src="./readme_img/ring_topology.png">
 
 ## Data Link Layer
 
