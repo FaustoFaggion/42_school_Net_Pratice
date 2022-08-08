@@ -410,6 +410,14 @@ Netwok Types
 
 <img width=500 src="./readme_img/port_address.png">
 
+### Switching
+
+	- A switch helps decide the best route for data transmission if the are multiple paths in a larger network
+	- One to one connection
+
+
+
+
 ## Data Link Layer
 
 ## Network Layer
