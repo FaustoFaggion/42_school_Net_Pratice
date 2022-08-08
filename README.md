@@ -108,6 +108,8 @@ A system administration related exercises
 
 #### Classes de Rede
 
+<img width=600 src="./readme_img/IP_class.png">
+
 	Classe A	10.0.0.0 à 10.255.255.255
 	REDE	HOSTS
 	 x		y z w
