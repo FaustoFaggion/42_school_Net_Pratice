@@ -94,9 +94,9 @@ A system administration related exercises
 
 **Subnet Mask**
 
-<img width=600 src="./readme_img/subnet_mask.png">
-
 <img width=600 src="./readme_img/subnet_mask_0.png">
+
+<img width=600 src="./readme_img/subnet_mask.png">
 
 	Quando o barra não esta representado no IP, o valor é 24.
 	O número que esta após o barra no endereço de 
@@ -469,6 +469,9 @@ Netwok Types
 	- Therefore, the layers in the TCP/IP protocol suite do not exactly match those in the OSI model.
 	- It is a hierarchical protocol made up of interactive modules, each of which provides a specific funcionality.
 
+
+
+
 ## Data Link Layer
 
 ## Network Layer
@@ -478,3 +481,7 @@ Netwok Types
 ## Application Layer
 
 Network Security
+
+## LINKS
+
+REDES - https://www.youtube.com/watch?v=lc6U93P4Sxw
